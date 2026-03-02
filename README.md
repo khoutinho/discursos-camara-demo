@@ -16,7 +16,7 @@ Python, Pandas, JSON, HTML/JS
 ## Observação
 Este repositório contém uma versão demonstrativa da pipeline.
 
-#Diagrama
+## Diagrama
 Raw HTML (Direto do site da câmara)
    ↓
 Parsing
