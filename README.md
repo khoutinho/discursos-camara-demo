@@ -17,18 +17,25 @@ Python, Pandas, JSON, HTML/JS
 Este repositório contém uma versão demonstrativa da pipeline.
 
 ## Diagrama
-Raw HTML (Direto do site da câmara)
+↓ Raw HTML
+
    ↓
 Parsing
+
    ↓
 Structured CSV
+
    ↓
 Text Cleaning (NLP)
+
    ↓
 Feature Extraction
+
    ↓
 Aggregation
+
    ↓
 JSON
+
    ↓
 Interactive Dashboard
